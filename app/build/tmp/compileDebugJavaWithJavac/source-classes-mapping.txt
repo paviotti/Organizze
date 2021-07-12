@@ -1,0 +1,13 @@
+com/paviotti/organizze/BuildConfig.java
+ com.paviotti.organizze.BuildConfig
+com/paviotti/organizze/activity/LoginActivity.java
+ com.paviotti.organizze.activity.LoginActivity
+com/paviotti/organizze/model/Usuario.java
+ com.paviotti.organizze.model.Usuario
+com/paviotti/organizze/config/ConfiguracaoFirebase.java
+ com.paviotti.organizze.config.ConfiguracaoFirebase
+com/paviotti/organizze/activity/MainActivity.java
+ com.paviotti.organizze.activity.MainActivity
+com/paviotti/organizze/activity/CadastroActivity.java
+ com.paviotti.organizze.activity.CadastroActivity
+ com.paviotti.organizze.activity.CadastroActivity$1
