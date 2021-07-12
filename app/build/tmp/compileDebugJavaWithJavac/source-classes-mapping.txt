@@ -11,3 +11,5 @@ com/paviotti/organizze/activity/MainActivity.java
 com/paviotti/organizze/activity/CadastroActivity.java
  com.paviotti.organizze.activity.CadastroActivity
  com.paviotti.organizze.activity.CadastroActivity$1
+com/paviotti/organizze/MainActivity.java
+ com.paviotti.organizze.MainActivity
